@@ -12,3 +12,4 @@ Some of the functions of this project are
 -   [x] Update List (addition/deletion)
 -   [x] Professional and Personal list
 -   [x] Contact Sharing (collaborate)
+https://github.com/ankita-2021/ContactManager2023/assets/80532826/ef067b82-9d56-4192-8272-d241e340ef3d
