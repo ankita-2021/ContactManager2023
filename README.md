@@ -13,5 +13,8 @@ Some of the functions of this project are
 -   [x] Professional and Personal list
 -   [x] Contact Sharing (collaborate)
         #<h2>Demo Video</h2>
--   [x] https://github.com/ankita-2021/ContactManager2023/assets/80532826/ef067b82-9d56-4192-8272-d241e340ef3d
+
+https://github.com/ankita-2021/ContactManager2023/assets/80532826/5af7c902-f57c-4eac-b121-24fca0ea7d0c
+
+
 
